@@ -29,10 +29,6 @@ Clone the repository:
 git clone https://github.com/angelospillos/claude-fable-5-system-prompt.git
 cd claude-fable-5-system-prompt
 
-Run Claude Code with the Claude Fable 5 system prompt:
-
-claude --system-prompt-file CLAUDE-FABLE-5-SYSTEM-PROMPT.md
-
 Run Claude Code with permission prompts skipped:
 
 claude --dangerously-skip-permissions --system-prompt-file CLAUDE-FABLE-5-SYSTEM-PROMPT.md
